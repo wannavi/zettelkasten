@@ -1,0 +1,10 @@
+{
+  "translucency": false,
+  "baseFontSize": 14,
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Pretendard",
+  "textFontFamily": "Pretendard,Inter",
+  "theme": "obsidian",
+  "accentColor": "#3a7c2d"
+}

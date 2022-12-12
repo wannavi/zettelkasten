@@ -1,0 +1,14 @@
+{
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "static",
+  "promptDelete": true,
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "absolute",
+  "fileSortOrder": "alphabetical",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "4. zettelkasten/01. fleeting notes"
+}
