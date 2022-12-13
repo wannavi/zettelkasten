@@ -1,8 +1,9 @@
 ---
-title: 
+title: Golang 고루틴 (A tour of go 해답)
 date: 2022-12-13
 tags:
- - 태그 1
+ - go
+ - goroutine
 ---
 
 ## 메모
