@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0114fb4f758fb8",
+        "id": "ee9affb091eec535",
         "type": "tabs",
         "children": [
           {
-            "id": "310f9f36ded79ca5",
+            "id": "82611ffc14d770e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/2022-12-13 RabbitMQ 정리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a00ae574655a8c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/22-12-13 Golang 고루틴 (A tour of go 해답).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/22-12-13 Golang 고루틴 (A tour of go 해답).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/22-12-13 Golang 고루틴 (A tour of go 해답).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/22-12-13 Golang 고루틴 (A tour of go 해답).md"
+              }
             }
           },
           {
@@ -137,17 +160,17 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "310f9f36ded79ca5",
+  "active": "a00ae574655a8c07",
   "lastOpenFiles": [
+    "posts/2022-12-13 RabbitMQ 정리.md",
+    "posts/22-12-13 Golang 고루틴 (A tour of go 해답).md",
     "무제파일.md",
     "posts/22-12-13 깃허브 블로그 도입기.md",
-    "posts/2022-12-13.md",
     "templates/{{date}}.md",
     "README.md",
     "public/스크린샷 2022-12-12 오후 2.59.55.png",
     "posts/22-12-03 표현.md",
     "posts/22-12-04 타이포그래피.md",
-    "posts/22-12-11 힙 자료구조.md",
-    "posts/22-12-11 이진 검색트리.md"
+    "posts/22-12-11 힙 자료구조.md"
   ]
 }
