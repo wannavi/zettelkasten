@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9affb091eec535",
+        "id": "699751430bca794a",
         "type": "tabs",
         "children": [
           {
-            "id": "82611ffc14d770e6",
+            "id": "ba0f0e9a23fbbd03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,17 +147,17 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "82611ffc14d770e6",
+  "active": "ba0f0e9a23fbbd03",
   "lastOpenFiles": [
+    "posts/22-12-13 RabbitMQ 정리.md",
+    "posts/22-12-12 병행성 (concurrency).md",
     "posts/22-12-13 Golang 고루틴.md",
-    "posts/2022-12-13 RabbitMQ 정리.md",
     "무제파일.md",
     "posts/22-12-13 깃허브 블로그 도입기.md",
     "templates/{{date}}.md",
     "README.md",
     "public/스크린샷 2022-12-12 오후 2.59.55.png",
     "posts/22-12-03 표현.md",
-    "posts/22-12-04 타이포그래피.md",
-    "posts/22-12-11 힙 자료구조.md"
+    "posts/22-12-04 타이포그래피.md"
   ]
 }
