@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "posts/22-12-25 락(lock)의 등장배경과 사용법.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1293611954df821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/22-12-26 빅 오 감잡아보기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63382ad30e27dcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "posts/22-12-12 병행성 (concurrency).md",
                 "mode": "source",
                 "backlinks": true,
@@ -20,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "62651720139113e5",
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/22-12-12 병행성 (concurrency).md",
+                "file": "posts/22-12-26 빅 오 감잡아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/22-12-12 병행성 (concurrency).md",
+                "file": "posts/22-12-26 빅 오 감잡아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/22-12-12 병행성 (concurrency).md"
+                "file": "posts/22-12-26 빅 오 감잡아보기.md"
               }
             }
           },
@@ -147,17 +173,17 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "4bc19cfedfa6dd9a",
+  "active": "c1293611954df821",
   "lastOpenFiles": [
-    "posts/22-12-13 RabbitMQ 정리.md",
+    "posts/22-12-25 락(lock)의 등장배경과 사용법.md",
+    "README.md",
     "posts/22-12-12 병행성 (concurrency).md",
+    "Pasted image 20221213174212.png",
+    "posts/22-12-13 RabbitMQ 정리.md",
     "posts/22-12-13 Golang 고루틴.md",
     "무제파일.md",
     "posts/22-12-13 깃허브 블로그 도입기.md",
     "templates/{{date}}.md",
-    "README.md",
-    "public/스크린샷 2022-12-12 오후 2.59.55.png",
-    "posts/22-12-03 표현.md",
-    "posts/22-12-04 타이포그래피.md"
+    "public/스크린샷 2022-12-12 오후 2.59.55.png"
   ]
 }
