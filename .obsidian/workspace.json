@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "8453a1f8a6f53e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/22-12-28 컴퓨터와 문자.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63382ad30e27dcd8",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/22-12-26 빅 오 감잡아보기.md",
+                "file": "posts/22-12-28 컴퓨터와 문자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/22-12-26 빅 오 감잡아보기.md",
+                "file": "posts/22-12-28 컴퓨터와 문자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/22-12-26 빅 오 감잡아보기.md"
+                "file": "posts/22-12-28 컴퓨터와 문자.md"
               }
             }
           },
@@ -173,8 +186,9 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "c1293611954df821",
+  "active": "8453a1f8a6f53e98",
   "lastOpenFiles": [
+    "posts/22-12-26 빅 오 감잡아보기.md",
     "posts/22-12-25 락(lock)의 등장배경과 사용법.md",
     "README.md",
     "posts/22-12-12 병행성 (concurrency).md",
@@ -183,7 +197,6 @@
     "posts/22-12-13 Golang 고루틴.md",
     "무제파일.md",
     "posts/22-12-13 깃허브 블로그 도입기.md",
-    "templates/{{date}}.md",
-    "public/스크린샷 2022-12-12 오후 2.59.55.png"
+    "templates/{{date}}.md"
   ]
 }
