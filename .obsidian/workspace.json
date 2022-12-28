@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "23e87aaa31d722de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/22-12-28 비트 연산에 대한 이야기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63382ad30e27dcd8",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/22-12-28 컴퓨터와 문자.md",
+                "file": "posts/22-12-28 비트 연산에 대한 이야기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/22-12-28 컴퓨터와 문자.md",
+                "file": "posts/22-12-28 비트 연산에 대한 이야기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/22-12-28 컴퓨터와 문자.md"
+                "file": "posts/22-12-28 비트 연산에 대한 이야기.md"
               }
             }
           },
@@ -186,8 +199,10 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "8453a1f8a6f53e98",
+  "active": "23e87aaa31d722de",
   "lastOpenFiles": [
+    "posts/22-12-28 컴퓨터와 문자.md",
+    "posts/22-12-28 비트 연산에 대한 이야기.md",
     "posts/22-12-26 빅 오 감잡아보기.md",
     "posts/22-12-25 락(lock)의 등장배경과 사용법.md",
     "README.md",
@@ -195,8 +210,6 @@
     "Pasted image 20221213174212.png",
     "posts/22-12-13 RabbitMQ 정리.md",
     "posts/22-12-13 Golang 고루틴.md",
-    "무제파일.md",
-    "posts/22-12-13 깃허브 블로그 도입기.md",
-    "templates/{{date}}.md"
+    "무제파일.md"
   ]
 }
