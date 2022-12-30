@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
+                "file": "posts/백엔드 지식/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
+                "file": "posts/백엔드 지식/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
+                "file": "posts/백엔드 지식/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md"
+                "file": "posts/백엔드 지식/README.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "35efe4b8f537ee4d",
   "lastOpenFiles": [
+    "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
     "posts/백엔드 지식/2022/22-11-07 도커를 이용한 웹서비스 무중단 배포하기.md",
     "posts/백엔드 지식/2022/22-10-01 DynamoDB 컨셉.md",
     "posts/백엔드 지식/2022/22-09-01 AWS ALB 적용기.md",
-    "posts/백엔드 지식/무제파일.md",
+    "posts/백엔드 지식/README.md",
     "posts/오늘의 알고리즘/22-12-30 Leetcode - 797. All Paths From Source to Target.md",
     "posts/오늘의 알고리즘/README.md",
     "README.md",
     "templates/{{date}}.md",
-    "public/Pasted image 20221213174212.png",
-    "posts/백엔드 지식/2022/22-12-12 병행성 (concurrency).md"
+    "public/Pasted image 20221213174212.png"
   ]
 }
