@@ -111,4 +111,4 @@ date: 2022-10-25
 
 ## 🔗 연결문서
 
-- [[posts/백엔드 지식/22-09-01 NAT Gateway - Private Subnet에 존재하는 EC2 호스트를 외부와 통신하게 하기]]
+- [[posts/백엔드 지식/2022/22-09-01 NAT Gateway - Private Subnet에 존재하는 EC2 호스트를 외부와 통신하게 하기]]

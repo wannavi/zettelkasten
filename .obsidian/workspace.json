@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35efe4b8f537ee4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/오늘의 알고리즘/22-12-30 Leetcode - 797. All Paths From Source to Target.md",
+                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/오늘의 알고리즘/22-12-30 Leetcode - 797. All Paths From Source to Target.md",
+                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/오늘의 알고리즘/22-12-30 Leetcode - 797. All Paths From Source to Target.md"
+                "file": "posts/백엔드 지식/2022/22-12-30 VPC 내에 있는 DB 인스턴스에 접근하는 시나리오.md"
               }
             }
           },
@@ -146,17 +160,17 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "2c2c43788714a220",
+  "active": "35efe4b8f537ee4d",
   "lastOpenFiles": [
-    "posts/오늘의 알고리즘/README.md",
+    "posts/백엔드 지식/2022/22-11-07 도커를 이용한 웹서비스 무중단 배포하기.md",
+    "posts/백엔드 지식/2022/22-10-01 DynamoDB 컨셉.md",
+    "posts/백엔드 지식/2022/22-09-01 AWS ALB 적용기.md",
+    "posts/백엔드 지식/무제파일.md",
     "posts/오늘의 알고리즘/22-12-30 Leetcode - 797. All Paths From Source to Target.md",
+    "posts/오늘의 알고리즘/README.md",
     "README.md",
-    "posts/백엔드 지식/22-09-01 AWS ALB 적용기.md",
     "templates/{{date}}.md",
     "public/Pasted image 20221213174212.png",
-    "posts/백엔드 지식/22-12-12 병행성 (concurrency).md",
-    "posts/백엔드 지식/22-12-25 락(lock)의 등장배경과 사용법.md",
-    "posts/백엔드 지식/22-12-26 빅 오 감잡아보기.md",
-    "posts/백엔드 지식/22-12-28 컴퓨터와 문자.md"
+    "posts/백엔드 지식/2022/22-12-12 병행성 (concurrency).md"
   ]
 }
