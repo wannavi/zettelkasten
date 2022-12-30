@@ -23,7 +23,7 @@ tags:
 
 만약 메시지를 worker 여러 대가 계속 받아서 처리(consume)한다고 하면 어떻게 분배될지 이야기해봅시다. 
 
-![[Pasted image 20221213174212.png]]
+![[public/Pasted image 20221213174212.png]]
 
 
 

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f7be773fe2ea0dd5",
+        "id": "9aa526a4d9913987",
         "type": "tabs",
         "children": [
           {
-            "id": "9e606e44ce568ca8",
+            "id": "307399586862cc01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/백엔드 지식/22-09-01 AWS ALB 적용기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/백엔드 지식/22-09-01 AWS ALB 적용기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/백엔드 지식/22-09-01 AWS ALB 적용기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/백엔드 지식/22-09-01 AWS ALB 적용기.md"
+              }
             }
           },
           {
@@ -137,17 +146,17 @@
     "width": 209.457763671875,
     "collapsed": true
   },
-  "active": "9e606e44ce568ca8",
+  "active": "db1c89ad563d5c37",
   "lastOpenFiles": [
-    "posts/22-12-12 병행성 (concurrency).md",
-    "posts/22-12-25 락(lock)의 등장배경과 사용법.md",
-    "posts/22-12-26 빅 오 감잡아보기.md",
-    "posts/22-12-28 컴퓨터와 문자.md",
-    "posts/22-12-28 비트 연산에 대한 이야기.md",
+    "templates/{{date}}.md",
+    "public/Pasted image 20221213174212.png",
     "README.md",
-    "Pasted image 20221213174212.png",
-    "posts/22-12-13 RabbitMQ 정리.md",
-    "posts/22-12-13 Golang 고루틴.md",
-    "무제파일.md"
+    "posts/백엔드 지식/22-12-12 병행성 (concurrency).md",
+    "posts/백엔드 지식/22-12-25 락(lock)의 등장배경과 사용법.md",
+    "posts/백엔드 지식/22-12-26 빅 오 감잡아보기.md",
+    "posts/백엔드 지식/22-12-28 컴퓨터와 문자.md",
+    "posts/백엔드 지식/22-12-28 비트 연산에 대한 이야기.md",
+    "posts/백엔드 지식/22-12-13 RabbitMQ 정리.md",
+    "posts/백엔드 지식/22-12-13 Golang 고루틴.md"
   ]
 }
