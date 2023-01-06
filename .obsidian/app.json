@@ -10,5 +10,6 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "4. zettelkasten/01. fleeting notes"
+  "newFileFolderPath": "4. zettelkasten/01. fleeting notes",
+  "useTab": false
 }
