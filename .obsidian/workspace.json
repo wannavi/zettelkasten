@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/지식/2023/23-01-06 NestJS와 타입스크립트의 한계.md",
+                "file": "sites/개발 공부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/지식/2023/23-01-06 NestJS와 타입스크립트의 한계.md",
+                "file": "sites/개발 공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/지식/2023/23-01-06 NestJS와 타입스크립트의 한계.md",
+                "file": "sites/개발 공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/지식/2023/23-01-06 NestJS와 타입스크립트의 한계.md"
+                "file": "sites/개발 공부.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "416c49173c410abd",
   "lastOpenFiles": [
+    "posts/지식/2023/23-01-06 NestJS와 타입스크립트의 한계.md",
     "posts/지식/2023/23-01-02 JS에서 튜플을 값으로 갖는 Set을 쓰고 싶었다..md",
     "posts/지식/2023/23-01-02 HTTP와 소켓 통신.md",
     "posts/문제/데이터베이스/해커랭크 SQL을 풀어보자 - 1일차.md",
@@ -170,7 +171,6 @@
     "posts/지식/2022/22-12-30 로컬환경에서 VPC 내에 있는 DB에 붙는 법.md",
     "posts/문제/알고리즘/23-01-01 Leetcode - 133. Clone Graph.md",
     "posts/지식/README.md",
-    "posts/지식/2022/22-11-07 도커를 이용한 웹서비스 무중단 배포하기.md",
-    "posts/지식/2022/22-10-01 DynamoDB 컨셉.md"
+    "posts/지식/2022/22-11-07 도커를 이용한 웹서비스 무중단 배포하기.md"
   ]
 }
